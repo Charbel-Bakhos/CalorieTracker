@@ -1,0 +1,2 @@
+clone down the repo, create a new venv, activate it, install all the packages necessary and then run the app.
+

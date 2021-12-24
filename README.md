@@ -13,3 +13,6 @@ If you want to run my application:
 - Create a new venv
 - Install all the packages necessary
 - Run the app
+
+clone down the repo, create a new venv, activate it, install all the packages necessary and then run the app.
+
