@@ -1,2 +1,11 @@
-clone down the repo, create a new venv, activate it, install all the packages necessary and then run the app.
+Run pip install -r requirements.txt
 
+These will give you the below:
+
+click==8.0.3
+Flask==2.0.2
+itsdangerous==2.0.1
+Jinja2==3.0.3
+MarkupSafe==2.0.1
+python-dotenv==0.19.2
+Werkzeug==2.0.2

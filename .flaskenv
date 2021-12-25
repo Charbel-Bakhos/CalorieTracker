@@ -1,0 +1,2 @@
+FLASK_APP=calorie_tracker
+FLASK_ENV=development
